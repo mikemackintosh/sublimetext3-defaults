@@ -1,0 +1,656 @@
+{
+	"folder_history":
+	[
+		"/Users/splug/.bash",
+		"/Users/splug/git/sigsci-customer-puppet",
+		"/Users/splug/git",
+		"/Users/splug/gopath/src/github.com/signalsciencescorp/sigsci",
+		"/Users/splug"
+	],
+	"last_version": 3083,
+	"last_window_id": 12,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 755.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lib",
+						"libxslt1"
+					],
+					[
+						"apach",
+						"apache_modules"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 97.0,
+				"last_filter": "instal",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown Exte",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"prev",
+						"Bookmarks: Select Previous"
+					]
+				],
+				"width": 583.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/splug/Library/Application Support/Sublime Text 3/Installed Packages/afterglow/Afterglow-markdown.tmTheme",
+				"/Users/splug/git/sigsci-customer-puppet/vision.sh",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/debian-apache24.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/repos/apt.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/repo.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/README.md",
+				"/Users/splug/git/sigsci-customer-puppet/README.md",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/Users/splug/.zshrc",
+				"/Users/splug/.bash_profile",
+				"/Users/splug/.zsh",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/init.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/centos-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/centos-apache22.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/agent.pp",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/ubuntu-apache22.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/ubuntu-apache24.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/ubuntu-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/modules/apache.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/Vagrantfile",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/config.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/files/sigsci.init",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/module-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/agent-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/.kitchen.yml",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/default.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/apache.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module/nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module/apache24.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module/apache22.pp",
+				"/Users/splug/git/sigsci-customer-puppet/test/integration/default/serverspec/agent_spec.rb",
+				"/Users/splug/git/sigsci-customer-puppet/examples/agent-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/repos/yum.erb",
+				"/Users/splug/git/sigsci-customer-puppet/Gemfile",
+				"/Users/splug/git/sigsci-customer-puppet/examples/ubuntu-apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/module-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/ubuntu-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/centos-apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/centos-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/rhel-apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/rhel-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/nginx.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/agent.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/.gitignore",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repos/yum.erb",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repos/apt.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/repo.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/repos/apt.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/repos/yum.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/agent.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/repo.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/init.pp",
+				"/Users/splug/Desktop/forwardobserver/bootstrap",
+				"/Users/splug/git/sigsci-customer-puppet/.buildignore",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repo.deb.erb",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repo.rhel.erb",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/splug/.ssh/config",
+				"/Users/splug/.gauth",
+				"/Volumes/splug/.ssh/config",
+				"/Users/splug/Dropbox/Mikes Backup/.gauth"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 106.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"../",
+					"(\\s+)$",
+					"\"sigsci-agent\"",
+					"pkg_action",
+					"\"\n",
+					"sigsci",
+					"yum"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"../../",
+					"\\n",
+					"",
+					"'sigsci-agent'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 234.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lib",
+						"libxslt1"
+					],
+					[
+						"apach",
+						"apache_modules"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/splug/git/sigsci-customer-puppet/Vagrantfile",
+					"settings":
+					{
+						"buffer_size": 2371,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/splug/git/sigsci-customer-puppet/modules/sigsci/README.md",
+					"settings":
+					{
+						"buffer_size": 2129,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 97.0,
+				"last_filter": "instal",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown Exte",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"prev",
+						"Bookmarks: Select Previous"
+					]
+				],
+				"width": 583.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/splug/git/sigsci-customer-puppet",
+				"/Users/splug/git/sigsci-customer-puppet/manifests",
+				"/Users/splug/git/sigsci-customer-puppet/modules",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/files",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/modules",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/repos",
+				"/Users/splug/git/sigsci-customer-puppet/test",
+				"/Users/splug/git/sigsci-customer-puppet/test/integration",
+				"/Users/splug/git/sigsci-customer-puppet/test/integration/default",
+				"/Users/splug/git/sigsci-customer-puppet/test/integration/default/serverspec"
+			],
+			"file_history":
+			[
+				"/Users/splug/git/sigsci-customer-puppet/vision.sh",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/debian-apache24.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/repos/apt.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/repo.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/README.md",
+				"/Users/splug/git/sigsci-customer-puppet/README.md",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/Users/splug/.zshrc",
+				"/Users/splug/.bash_profile",
+				"/Users/splug/.zsh",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/init.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/centos-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/centos-apache22.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/agent.pp",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/ubuntu-apache22.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/ubuntu-apache24.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/ubuntu-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/modules/apache.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/Vagrantfile",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/config.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/files/sigsci.init",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/module-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/agent-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/.kitchen.yml",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/default.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/apache.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module/nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module/apache24.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/module/apache22.pp",
+				"/Users/splug/git/sigsci-customer-puppet/test/integration/default/serverspec/agent_spec.rb",
+				"/Users/splug/git/sigsci-customer-puppet/examples/agent-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/repos/yum.erb",
+				"/Users/splug/git/sigsci-customer-puppet/Gemfile",
+				"/Users/splug/git/sigsci-customer-puppet/examples/ubuntu-apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/module-only.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/ubuntu-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/centos-apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/centos-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/rhel-apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/examples/rhel-nginx.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/nginx.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/templates/agent.conf.erb",
+				"/Users/splug/git/sigsci-customer-puppet/.gitignore",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repos/yum.erb",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repos/apt.erb",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/repo.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/apache.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/repos/apt.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/manifests/repos/yum.pp",
+				"/Users/splug/git/sigsci-customer-puppet/modules/sigsci/agent.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/repo.pp",
+				"/Users/splug/git/sigsci-customer-puppet/manifests/init.pp",
+				"/Users/splug/Desktop/forwardobserver/bootstrap",
+				"/Users/splug/git/sigsci-customer-puppet/.buildignore",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repo.deb.erb",
+				"/Users/splug/git/sigsci-customer-puppet/templates/repo.rhel.erb",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/splug/.ssh/config",
+				"/Users/splug/.gauth",
+				"/Volumes/splug/.ssh/config",
+				"/Users/splug/Dropbox/Mikes Backup/.gauth"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 106.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"../",
+					"(\\s+)$",
+					"\"sigsci-agent\"",
+					"pkg_action",
+					"\"\n",
+					"sigsci",
+					"yum"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"../../",
+					"\\n",
+					"",
+					"'sigsci-agent'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/splug/git/sigsci-customer-puppet"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/splug/git/sigsci-customer-puppet/Vagrantfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2371,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										41,
+										41
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/splug/git/sigsci-customer-puppet/modules/sigsci/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2129,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										156,
+										156
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 71.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 851 300 1280 777 0 0 2560 1417 ",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 234.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

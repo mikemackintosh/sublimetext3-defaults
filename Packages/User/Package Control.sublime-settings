@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter-Edge",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"Puppet",
+		"SublimeLinter-contrib-puppet",
+		"Theme - Afterglow",
+		"Vagrant"
+	]
+}
